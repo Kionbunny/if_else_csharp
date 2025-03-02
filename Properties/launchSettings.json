@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "conditional": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
